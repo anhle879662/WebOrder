@@ -1,0 +1,188 @@
+[{
+  "_id": {
+    "$oid": "634d66d0a6793d0b68041b6c"
+  },
+  "username": "khai",
+  "password": "123",
+  "fullname": "Võ Khải test",
+  "address": "Phường 5, Gò Vấp, Ho Chi Minh City, Viet Nam",
+  "phone": "0983716532",
+  "email": "",
+  "__v": 0,
+  "avatar": "https://res.cloudinary.com/phucdeptrai/image/upload/v1666681247/or2aar9ieyzlhmexl0on.jpg",
+  "deleted": false,
+  "point": 28,
+  "latitude": 28,
+  "longtitude": 106.698402
+},{
+  "_id": {
+    "$oid": "634d80ecea6378238428c263"
+  },
+  "username": "buian",
+  "password": "123",
+  "fullname": "Bùi Hồng Ân",
+  "address": "Gò Vấp, Quận Bình Thạnh, Ho Chi Minh City, Viet Nam",
+  "phone": "0924686422",
+  "email": "",
+  "avatar": "",
+  "__v": 0,
+  "deleted": false,
+  "point": 0,
+  "latitude": 0,
+  "longtitude": 106.709145
+},{
+  "_id": {
+    "$oid": "634f6319698b71f53e9156bd"
+  },
+  "username": "EFSDAVXCBF",
+  "password": "ASGXCVDFHRE",
+  "fullname": "Phúc Hoàng Ngọc",
+  "address": "Quận 1",
+  "phone": "0987654321",
+  "email": "ngocphuc@gmail.com",
+  "avatar": "aaa",
+  "__v": 0,
+  "deleted": false,
+  "point": 0,
+  "latitude": 10.817141,
+  "longtitude": 106.707954
+},{
+  "_id": {
+    "$oid": "634f7039698b71f53e9156d5"
+  },
+  "username": "T$3pWiS.?OOC1",
+  "password": "teMEzz06?TiAK",
+  "fullname": "Phuc dep trai",
+  "address": "tk34.22 nguyen canh chan phuong cau kho quan 1",
+  "phone": "0908016873",
+  "email": "ngocphuc00002@gmail.com",
+  "avatar": "https://lh3.googleusercontent.com/a/ALm5wu2Sm1BPinBTpapPrmj9S89_0O280Dx-DL_hXicu=s96-c",
+  "__v": 0,
+  "deleted": true,
+  "point": 0,
+  "latitude": 10.802029,
+  "longtitude": 106.649307
+},{
+  "_id": {
+    "$oid": "636bc40c9f853445efd61e39"
+  },
+  "username": "vinh",
+  "password": "123456",
+  "fullname": "Lâm Hữu Vinh",
+  "address": "Tân Phú",
+  "phone": "0962837153",
+  "email": "",
+  "avatar": "",
+  "__v": 0,
+  "deleted": false,
+  "point": 0,
+  "latitude": 10.731839,
+  "longtitude": 106.702827
+},{
+  "_id": {
+    "$oid": "6371db05e20848d3006be185"
+  },
+  "username": "xuanphuong",
+  "password": "123456",
+  "fullname": "Đặng Xuân Phương",
+  "address": "Bình Phước",
+  "phone": "0971274103",
+  "email": "",
+  "avatar": "https://i.postimg.cc/Hn9fZv8k/SD-BLUE-600x600-removebg-preview.png",
+  "point": 0,
+  "deleted": false,
+  "__v": 0,
+  "latitude": 10.8236,
+  "longtitude": 106.6958
+},{
+  "_id": {
+    "$oid": "63902ade3f1d7f0c3e54c5f4"
+  },
+  "username": "haidang",
+  "password": "123456",
+  "fullname": "Nguyen Dang Hai Dang",
+  "address": "Di An Binh Duong",
+  "phone": "0971741652",
+  "email": "",
+  "avatar": "https://i.postimg.cc/Hn9fZv8k/SD-BLUE-600x600-removebg-preview.png",
+  "point": 0,
+  "deleted": false,
+  "__v": 0,
+  "latitude": 10.8236,
+  "longtitude": 106.6958
+},{
+  "_id": {
+    "$oid": "641e8bac1c63316d19512b68"
+  },
+  "username": "phan",
+  "password": "123",
+  "fullname": "Phan Nguyễn",
+  "address": "nguyen canh chan phuong cau kho quan 1123",
+  "phone": "09871637232",
+  "deleted": false,
+  "createAt": {
+    "$date": "2023-03-25T05:50:36.253Z"
+  },
+  "__v": 0,
+  "point": 0
+},{
+  "_id": {
+    "$oid": "6422cd2250d15e8af42e2fa4"
+  },
+  "username": "phuong123",
+  "password": "123456",
+  "fullname": "Dang Xuan Phuong",
+  "address": "Tan Phu, HCM",
+  "phone": "0944285005",
+  "deleted": false,
+  "createAt": {
+    "$date": "2023-03-28T11:18:58.733Z"
+  },
+  "__v": 0,
+  "point": 0
+},{
+  "_id": {
+    "$oid": "642c6f7bb4491877a5679541"
+  },
+  "username": "6151_Võ Khải",
+  "password": "225044247608934",
+  "fullname": "Võ Khải",
+  "address": "",
+  "phone": "",
+  "avatar": "https://4kwallpapers.com/images/walls/thumbs_3t/10636.jpg",
+  "deleted": false,
+  "createAt": {
+    "$date": "2023-04-04T18:42:03.278Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d8c6d4d0924a5fd9ce8ff"
+  },
+  "username": "6575_Lâm Hữu Vinh",
+  "password": "883789102784791",
+  "fullname": "6575_Lâm Hữu Vinh",
+  "address": "",
+  "phone": "",
+  "avatar": "",
+  "deleted": false,
+  "createAt": {
+    "$date": "2023-04-05T14:57:50.000Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d9d9bcb93eceb7420a59a"
+  },
+  "username": "Cường Trương Văn",
+  "password": "744653100871159",
+  "fullname": "Cường Trương Văn",
+  "address": "",
+  "phone": "0978564138",
+  "avatar": "",
+  "deleted": false,
+  "createAt": {
+    "$date": "2023-04-05T16:11:07.948Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,216 @@
+[{
+  "_id": {
+    "$oid": "63403dd7ffef9760f23b148e"
+  },
+  "img": "https://i.postimg.cc/3JKM4hz4/tra-dao-600x600-removebg-preview.png",
+  "name": "Trà đào cam sả",
+  "type": "drink",
+  "price": "29",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2023-03-28T12:28:17.960Z"
+  }
+},{
+  "_id": {
+    "$oid": "634ed98287f55ab4509e3c35"
+  },
+  "name": "Pizza Thập Cẩm",
+  "img": "https://i.postimg.cc/9MbkDb4h/pizzathapcam-600x600-removebg-preview.png",
+  "type": "food",
+  "price": "79",
+  "deleted": false,
+  "__v": 0,
+  "id": "10",
+  "deletedAt": {
+    "$date": "2023-03-28T12:28:17.960Z"
+  }
+},{
+  "_id": {
+    "$oid": "634eda7287f55ab4509e3c5f"
+  },
+  "name": "Pizza Pepperoni",
+  "img": "https://i.postimg.cc/cCJbw3Y8/pizzapepperoni-600x600-removebg-preview.png",
+  "type": "food",
+  "price": "80",
+  "deleted": false,
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:18.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "6352ce0f9c6babf4dcab6f70"
+  },
+  "name": "Corndog phô mai",
+  "img": "https://i.postimg.cc/Tw2Kj2PD/corndogphomai-600x600-removebg-preview.png",
+  "type": "sidefood",
+  "price": "27",
+  "deleted": false,
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:13.121Z"
+  }
+},{
+  "_id": {
+    "$oid": "63418034f0b187fc2556dd08"
+  },
+  "img": "https://i.postimg.cc/Zqhqx8cg/tra-sua-tran-chau-600x600-removebg-preview.png",
+  "name": "Trà Sữa Topping Thập Cẩm",
+  "type": "drink",
+  "price": "25",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2022-11-26T16:37:48.847Z"
+  }
+},{
+  "_id": {
+    "$oid": "63403da1ffef9760f23b148d"
+  },
+  "img": "https://i.postimg.cc/JnZwJz1J/SD-BACHA-600x600-removebg-preview.png",
+  "name": "Soda bạc hà",
+  "type": "drink",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2022-11-27T14:15:28.668Z"
+  },
+  "price": "29"
+},{
+  "_id": {
+    "$oid": "634eda1087f55ab4509e3c55"
+  },
+  "name": "Pizza Tôm",
+  "img": "https://i.postimg.cc/v8PjMPF7/pizzatom-600x600-removebg-preview.png",
+  "type": "food",
+  "price": "80",
+  "deleted": false,
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:18.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "6352cf699c6babf4dcab6fe7"
+  },
+  "name": "Corndog xúc xích",
+  "img": "https://i.postimg.cc/6qyTSHn6/corndogxucxich-600x600-removebg-preview.png",
+  "type": "sidefood",
+  "price": "22",
+  "deleted": false,
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:13.121Z"
+  }
+},{
+  "_id": {
+    "$oid": "63417f3cf0b187fc2556dd07"
+  },
+  "img": "https://i.postimg.cc/Hn9fZv8k/SD-BLUE-600x600-removebg-preview.png",
+  "name": "Soda blue",
+  "type": "drink",
+  "price": "29",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2022-11-26T16:37:48.847Z"
+  }
+},{
+  "_id": {
+    "$oid": "6346f94e3064bf7411030fd6"
+  },
+  "img": "https://i.postimg.cc/W461WdY4/tra-sua-tran-chau-matcha-600x600-removebg-preview.png",
+  "name": "Sữa Tươi Trân Châu Đường Đen Matcha",
+  "type": "drink",
+  "price": "35",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:18.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "6352cf239c6babf4dcab6fc7"
+  },
+  "name": "Corndog phô mai xúc xích",
+  "img": "https://i.postimg.cc/qqSgd8xs/corndogphomaixucxich-600x600-removebg-preview.png",
+  "type": "sidefood",
+  "price": "27",
+  "deleted": false,
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:13.121Z"
+  }
+},{
+  "_id": {
+    "$oid": "63403e0fffef9760f23b148f"
+  },
+  "img": "https://i.postimg.cc/pVQbLrcM/SD-KIWI-600x600-removebg-preview.png",
+  "name": "Soda kiwi",
+  "type": "drink",
+  "price": "30",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2022-11-26T16:37:48.847Z"
+  }
+},{
+  "_id": {
+    "$oid": "6346f92c3064bf7411030fd5"
+  },
+  "img": "https://i.postimg.cc/pTsXvgHb/tra-sua-tran-chau-socola-600x600-removebg-preview.png",
+  "name": "Sữa Tươi Trân Châu Đường Đen",
+  "type": "drink",
+  "price": "25",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:13.121Z"
+  }
+},{
+  "_id": {
+    "$oid": "6346f9683064bf7411030fd7"
+  },
+  "img": "https://i.postimg.cc/rmVFvq7N/tra-sua-tran-chau-khoai-mon-600x600-removebg-preview.png",
+  "name": "Sữa Tươi Trân Châu Đường Đen Khoai Môn",
+  "type": "drink",
+  "price": "35",
+  "deleted": false,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:18.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "634ed7c687f55ab4509e3bfb"
+  },
+  "name": "Pizza Hải Sản Cao Cấp",
+  "img": "https://i.postimg.cc/nrwwkLYS/pizzahaisancaocap-600x600-removebg-preview.png",
+  "type": "food",
+  "price": "79",
+  "deleted": false,
+  "__v": 0,
+  "id": "9",
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:18.864Z"
+  }
+},{
+  "_id": {
+    "$oid": "6352cfa29c6babf4dcab6fff"
+  },
+  "name": "Khoai tây chiên",
+  "img": "https://i.postimg.cc/sXnvTFB0/khoaitaychien-600x600-removebg-preview.png",
+  "type": "sidefood",
+  "price": "22",
+  "deleted": false,
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2022-11-03T02:55:13.121Z"
+  }
+},{
+  "_id": {
+    "$oid": "6422d70aa5925554be06ee3d"
+  },
+  "name": "khai",
+  "img": "https://i.postimg.cc/rpLhszbC/pizzapepperoni.jpg",
+  "type": "food",
+  "price": "12",
+  "deleted": true,
+  "__v": 0,
+  "deletedAt": {
+    "$date": "2023-03-28T12:01:18.702Z"
+  }
+}]

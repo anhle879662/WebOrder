@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6390300bd9661ac9562aa082"
+  },
+  "id_Payment": "6379d280f0eca348c3d31efd",
+  "id_Shipper": "637713463101a204cd04ffa9",
+  "createdAt": {
+    "$date": "2022-12-07T13:08:07.104Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6391443f81c864d2ddc1fa0c"
+  },
+  "id_Payment": "639143b4f0a19991e3e34295",
+  "id_Shipper": "637713463101a204cd04ffa9",
+  "createdAt": {
+    "$date": "2022-12-08T08:54:12.869Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63803b59e048f0e5ea9d3749"
+  },
+  "id_Payment": "6374ec3c6a24f5c4acdea7f0",
+  "id_Shipper": "637713463101a204cd04ffa9",
+  "createdAt": {
+    "$date": "2022-11-25T10:23:14.604Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6390302bd9661ac9562aa0b7"
+  },
+  "id_Payment": "63902c2c3f1d7f0c3e54c8c4",
+  "id_Shipper": "637713463101a204cd04ffa9",
+  "createdAt": {
+    "$date": "2022-12-07T13:08:07.104Z"
+  },
+  "__v": 0
+}]
